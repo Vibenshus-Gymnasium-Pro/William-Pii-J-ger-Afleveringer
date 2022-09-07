@@ -1,5 +1,5 @@
 #Tasks
-#- 7-4, 7-8 
+# William Pii Jæger
 
 
 cube = [value**3 for value in range(1, 11)]
